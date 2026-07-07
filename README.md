@@ -16,7 +16,7 @@ make static-bin # Compile a static binary. You don't need to run this, this is j
 
 ## preparing source code
 ```bash
-git clone #TODO: add the actual repo
+git clone https://github.com/tinteeam/tin-disk-diag --recursive --depth 1
 ```
 
 # Notes
