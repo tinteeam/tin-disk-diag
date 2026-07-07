@@ -1,0 +1,3 @@
+[submodule "deps/cbash"]
+	path = deps/cbash
+	url = https://github.com/tinteeam/cbash.git
