@@ -1,0 +1,13 @@
+diff --git a/Makefile b/Makefile
+index 8d2cd72..4db9532 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,7 +1,7 @@
+ CC = gcc
+ CC_FLAGS = -Wall -Wextra -Werror -static -Iinclude 
+ 
+-BUILD = $(PWD)/bin
++BUILD = bin
+ C_SOURCES = $(shell find src -type f -name '*.c')
+ INSTALL_DIR = /usr/local/bin
+ 
